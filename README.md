@@ -1,4 +1,4 @@
-# assignment_hotel_agent
+# hotel_room_service_order_agent
 
 A smart, fully working AI-powered room service chatbot built with LangChain + Google Gemini-2.5-flash.
 
